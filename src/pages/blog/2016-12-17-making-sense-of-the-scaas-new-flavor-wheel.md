@@ -9,7 +9,7 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/img_5086.jpg)
+![flavor wheel](https://raw.githubusercontent.com/ca-miked/gatsby-starter-netlify-cms/master/static/img/flavor_wheel.jpg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
